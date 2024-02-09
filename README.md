@@ -1,4 +1,4 @@
 # apnacollege
 this is my first repository
 <br>
-my name is vishnu
+my name is vishnu(my college)
